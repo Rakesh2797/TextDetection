@@ -11,3 +11,5 @@ Phone Number Detection is an iOS app that uses machine learning to recognize tex
 ## Dependencies
 * CoreML
 * Vision
+
+![Number Detection](https://user-images.githubusercontent.com/47936815/235416918-8f9f9c57-98fd-4c57-864c-62aebdd2a1a6.gif)
